@@ -1,0 +1,10 @@
+streamlit - used to build the appfsda
+langchain - used to build llm workflow
+openai - needed to use openai gpt
+wikipedia - used to connect gpt to wikipedia
+chromadb - vector storage
+tiktoken - backend tokenizer for openai
+
+
+
+
